@@ -1,5 +1,3 @@
-Dataset README
-
 # Dataset README
 
 This dataset comprises 813 unique graphs designed for the Max-Cut problem, solved using the QAOA algorithm with Qiskit. It includes both trojan-free and trojan-inserted compiled QAOA circuits, optimized for 3, 4, and 5 node graphs. The trojan-inserted versions feature a Trojan X gate strategically placed to maximize Approximation Ratio (AR) loss, showcasing the dataset's variety for robust model training. Additionally, 11 variant datasets explore different Trojan gate types, numbers, locations, and compiler backends. These unitary matrices, representing quantum gate sequences, serve as the QTrojanNet CNN model's input, offering a comprehensive resource for detecting Trojans in quantum circuits.
