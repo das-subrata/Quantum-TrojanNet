@@ -1,5 +1,3 @@
-Here is a README file for the "Graphs for Max-Cut Problem" folder and its subfolders:
-
 # Graphs for Max-Cut Problem
 
 This folder contains the graph data used to generate the QAOA Max-Cut circuits in the dataset. 
